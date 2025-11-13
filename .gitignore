@@ -1,0 +1,6 @@
+# Données BGP brutes (RouteViews)
+bgp_data/routeviews/rib/*.bz2
+bgp_data/routeviews/rib/*.dump
+bgp_data/routeviews/updates/*.bz2
+bgp_data/routeviews/updates/*.dump
+
